@@ -1,2 +1,2 @@
-# prog_fund
+# Programming Funamentals with Python
 Programming Fundamentals

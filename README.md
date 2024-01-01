@@ -1,2 +1,2 @@
-# Programming Funamentals with Python
+# programming_fundamentals
 Programming Fundamentals
